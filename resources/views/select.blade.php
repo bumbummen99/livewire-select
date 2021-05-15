@@ -1,4 +1,4 @@
-<div>
+<div class="{{ $styles['root'] }}">
 
     <div>
         @if(!$searchable && $shouldShow)
